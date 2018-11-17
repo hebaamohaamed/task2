@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1542454771 source:c:\users\miss_heba\desktop\task2\main.cpp
+	<iostream>
+	"BankAccount.h"
+	"SavingsBankAccount.h"
+	"Client.h"
+	"BankingApplication.h"
+
+1542390118 c:\users\miss_heba\desktop\task2\bankaccount.h
+
+1542473016 source:c:\users\miss_heba\desktop\task2\bankaccount.cpp
+	"BankAccount.h"
+	<iostream>
+
+1542404420 c:\users\miss_heba\desktop\task2\savingsbankaccount.h
+	"BankAccount.h"
+
+1542476059 source:c:\users\miss_heba\desktop\task2\savingsbankaccount.cpp
+	"SavingsBankAccount.h"
+	<iostream>
+	"BankAccount.h"
+
+1542479221 source:c:\users\miss_heba\desktop\task2\client.cpp
+	<iostream>
+	"BankAccount.h"
+	"SavingsBankAccount.h"
+	"Client.h"
+
+1542479649 c:\users\miss_heba\desktop\task2\client.h
+	<bits/stdc++.h>
+	"SavingsBankAccount.h"
+
+1542471676 c:\users\miss_heba\desktop\task2\bankingapplication.h
+	<vector>
+	"Client.h"
+	"BankingApplication.h"
+
+1542479709 source:c:\users\miss_heba\desktop\task2\bankingapplication.cpp
+	<iostream>
+	"Client.h"
+	"BankingApplication.h"
+
